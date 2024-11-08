@@ -1,0 +1,27 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=ba65e3a7
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "box-tp-s001.vmdk"
+RW 8323072 SPARSE "box-tp-s002.vmdk"
+RW 8323072 SPARSE "box-tp-s003.vmdk"
+RW 8323072 SPARSE "box-tp-s004.vmdk"
+RW 8323072 SPARSE "box-tp-s005.vmdk"
+RW 327680 SPARSE "box-tp-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "6aaea9258dcc4c364c97c35bba65e3a7"
+ddb.toolsInstallType = "4"
+ddb.toolsVersion = "11333"
+ddb.uuid = "60 00 C2 9e 32 c3 e3 1b-c4 19 5f 54 22 b5 ef d9"
+ddb.virtualHWVersion = "19"

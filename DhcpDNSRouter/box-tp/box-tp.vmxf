@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 f7 69 fd b9 5d e9 22-ec f1 52 eb c2 37 7a b1</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">box-tp.vmx</vmxPathName></VM></Foundry>
